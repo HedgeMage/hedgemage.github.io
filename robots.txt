@@ -1,2 +1,2 @@
-Sitemap: http://hedgemage.net/sitemapindex.xml
+Sitemap: http://hedgemage.github.io/sitemapindex.xml
 
