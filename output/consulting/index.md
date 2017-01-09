@@ -1,0 +1,43 @@
+<!-- 
+.. title: Consulting Information
+.. slug: consulting
+.. date: 2017-01-08 21:07:07 UTC-04:00
+.. tags: 
+.. category: 
+.. link: 
+.. description: Please read this thoroughly before approaching me with consulting work.
+.. type: text
+-->
+
+*Note: if you are a school looking for someone to talk to students about tech, this page isn't for you.  I love helping young people, and do that for free whenever I can.  Just drop me a line at my [personal email address](mailto:hedgemage@binaryredneck.net) and I'll do my best to work with you.*
+
+# Areas Of Interest
+----
+I'm more likely to take consulting work that dovetails well with my existing priorities, namely:
+
+* The security of critical infrastructure, whether this be ICS/SCADA systems or software controlling physical infrastructure, or the networks and software that make the internet possible.
+* Securing life-critical systems and software.
+* Securing science and research resources.
+* Training the next generation of information security practitioners, and helping those already in our industry learn to adapt their skills to changing technologies and threats.
+  
+# How To Hire Me
+----
+If you aren't sure where to start, email me at [sons -at- security -dot- engineering](mailto:sons@security.engineering), and we can go from there.  Generally, upon receipt of your introductory email, I'll either decline the project outright, or set up a call to go over the details.
+
+The first things I'll want to go over are to establish my interest in the project, to figure out whether it's a good fit for my role at [IU's Center for Applied Center for Cybersecurity Research](https://cacr.iu.edu) or something I'd need to take on through my place with [Jenaraiah Industrial Automation](http://www.jenariah.com), and to get some idea of scope and complexity.
+
+I'm happy to talk a bit and let you get to know me, or answer specific questions, but please don't ask me to email a copy of my CV or other details you could have found on [the page you probably got here from](/).  My primary contact with your organization should speak fluent English so that we can communicate effectively.
+
+# If You Have a Start-Up
+----
+No, I don't want to be your co-founder.  I don't care how awesome your idea is, I have things I need to finish right now that preclude me froim going all-in on building a company from scratch.
+
+I may consider *advisor* roles, however.  I spent a good bit of my career moving between different tech startups, and learned a lot doing it.  One of the downsides of being joined at the hip to academia is that it's hard to remain grounded in the economy, and advising a startup or two could give me that.
+
+If you want me to consider advising your start-up, please consider the following:
+
+* Demonstrate that you will be respectful of my time; don't waste it.  For that matter, don't waste *your* time.
+
+* Don't play cloak-and-dagger with me.  I don't sign NDAs for people I don't know over projects I haven't heard an elevator pitch for.  See above about not wasting my time.
+
+* I'm not really interested in entertainment businesses, luxury goods, and so on.  I'm a curmudgeonly engineer.  I like businesses that tackle real needs in un-sexy but useful ways.
