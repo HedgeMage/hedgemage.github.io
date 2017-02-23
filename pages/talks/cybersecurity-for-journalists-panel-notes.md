@@ -1,6 +1,6 @@
 <!-- 
 .. title: Cybersecurity For Journalists Panel Notes
-.. slug: talks/journalists2017
+.. slug: journalists2017
 .. date: 2017-02-23 11:34:17 UTC-05:00
 .. tags: 
 .. link: 
