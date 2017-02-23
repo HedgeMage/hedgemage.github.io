@@ -13,6 +13,7 @@ You've found me, sort of.  This is a parking lot for domains I own that don't ha
 
 ## You were probably looking for:
 
+* [Talks and Presentations I've given](/talks)
 * [My CV](/files/Susan_Sons_CV.pdf)
 * [My personal blog](https://binaryredneck.net)
 * [My workplace](https://cacr.iu.edu) *who don't censor, endorse, or seem to particularly pay attention to my speech outside of work*
