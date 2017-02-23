@@ -9,7 +9,7 @@
 .. type: text
 -->
 
-You've found me, sort of.  This is a parking lot for domains I own that don't have an associated web site (yet!).
+<img src="http://i.imgur.com/OimsSCF.png " alt="Susan Sons headshot" style="width: 250px; float: right;"/>You've found me, sort of.  This is a parking lot for domains I own that don't have an associated web site (yet!).  
 
 ## You were probably looking for:
 
