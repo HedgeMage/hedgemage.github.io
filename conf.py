@@ -131,7 +131,7 @@ NAVIGATION_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "custom"
+THEME = "lotabout"
 
 # Below this point, everything is optional
 
