@@ -10,6 +10,8 @@
 
 Below are notes and links from the 23 Feb 2017 panel on Cybersecurity for Journalists at Indiana University.  [More information on the panel can be found here.](https://cacr.iu.edu/events/2017/cybersec-for-jounalists.php).
 
+You can also view [the panel's introductory slides](/files/Cybersecurity_for_Journalists.pptx).
+
 ## Basic Cybersecurity (for everyone)
 
 * **Install Signal Private Messenger** by Open Whisper Systems on your smartphone.  It is available [for Android in the Google Play Store](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) and [for iPhone in the iTunes Store](https://itunes.apple.com/us/app/signal-private-messenger/id874139669).  I realize that it asks for a *lot* of permissions, which can be scary.  The Open Whisper Systems team made the choice to support as much messenger functionality as possible, so that vulnerable users wouldn't go to less-safe apps because they couldn't get behaviors they were used to, such as taking photos or videos from the app.  You can safely deny whatever permissions you won't use and the app will handle it gracefully.
