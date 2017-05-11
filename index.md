@@ -14,7 +14,7 @@
 ## You were probably looking for:
 
 * [Talks and Presentations I've given](/talks)
-* [My CV](/files/Susan_Sons_CV.pdf)
+* [My CV](/files/Susan_Sons_CV.pdf), or a shorter [resume](/files/Susan_Sons_resume.pdf}
 * [My personal blog](https://binaryredneck.net)
 * [My workplace](https://cacr.iu.edu) *who don't censor, endorse, or seem to particularly pay attention to my speech outside of work*
 * [Linux Journal](https://linuxjournal.com), where my column *Under the Sink* covers a story or idea in infrastructure software and security about every other month.
