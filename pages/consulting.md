@@ -32,6 +32,6 @@ I'm happy to talk a bit and let you get to know me, or answer specific questions
 ----
 No, I don't want to be your co-founder.  I don't care how awesome your idea is, I have things I need to finish right now that preclude me froim going all-in on building a company from scratch.
 
-I may consider *advisor* roles, however.  I spent a good bit of my career moving between different tech startups, and learned a lot doing it.  One of the downsides of being joined at the hip to academia is that it's hard to remain grounded in the economy, and advising a startup or two could give me that.  Meanwhile, I've got a great deal of startup experience, a great deal of infosec experience, and a weird about of experience from totally unrelated fields.
+I may consider *advisor* roles, however.  I spent a good bit of my career moving between different tech startups, and learned a lot doing it.  One of the downsides of being joined at the hip to academia is that it's hard to remain grounded in the economy, and advising a startup or two could give me that.  Meanwhile, I've got a great deal of startup experience, a great deal of infosec experience, and a weird amount of experience from totally unrelated fields.
 
 If you want me to consider advising your start-up, go ahead and [drop me an email](mailto:sons@security.engineering), preferably heavy on details.  If I have to watch a video to find out what your startup does, you don't respect my time.
