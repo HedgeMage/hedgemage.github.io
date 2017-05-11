@@ -9,7 +9,7 @@
 .. type: text
 -->
 
-<img src="http://i.imgur.com/OimsSCF.png " alt="Susan Sons headshot" style="width: 250px; float: right;"/>You've found me, sort of.  This is a parking lot for domains I own that don't have an associated web site (yet!).  
+<img src="http://i.imgur.com/OimsSCF.png " alt="Susan Sons headshot" style="width: 250px; float: right;"/>You've found me, sort of.  This is a holding place for domains, and a bit of a "find Susan's work" portal.
 
 ## You were probably looking for:
 
@@ -33,7 +33,7 @@
 * [The internet's core infrastructure is dangerously unsupported and could crumble (but we can save it!)](http://boingboing.net/2016/11/11/the-internets-core-infrastru.html)  Cory Doctorow, BoingBoing
 * [NTP: the rebirth of ailing, failing core network infrastructure](http://boingboing.net/2016/11/29/ntp-the-rebirth-of-ailing-fa.html) Cory Doctorow, BoingBoing
 
-## Want help with something?
+## Want my help with something?
 
 ### Teachers
 If you're within my easy travel radius (generally a day trip driving from Bloomington, IN), I'd be happy to schedule a time to come talk to your classes, for free, about infosec, STEM careers, internet safety and privacy, or related subjects.  Just [email me](mailto:hedgemage@binaryredneck.net) and we'll work out the details.
@@ -53,12 +53,13 @@ I'm not looking to change jobs right now.  However, I do have some ability to wo
 * [Google Plus](http://gplus.to/hedgemage)
 
 
-## Quick bio...probably not that interesting...
+## Quick bio...
 
-By day, I work as a Senior Systems Analyst at [Indiana University's Center for Applied Cybersecurity Research](http://cacr.iu.edu).  This means that I split my time among a number of projects revolving around securing scientific and infrastructure technologies.  Some of these are stepping up security operations at [Open Science Grid](https://www.opensciencegrid.org/), [helping NSF-funded science and infrastructure projects improve their security](http://trustedci.org), and helping to secure a DHS-funded static analysis project called [the SWAMP](https://www.mir-swamp.org).  I sneak in a little of my own research and various attempts to save the world from poor information security practices whenever I can.
+By day, I work as a Senior Systems Analyst at [Indiana University's Center for Applied Cybersecurity Research](http://cacr.iu.edu).  This means that I split my time among a number of projects revolving around securing scientific and infrastructure technologies.  Some of these are leading security operations at [Open Science Grid](https://www.opensciencegrid.org/), teaching technologists and managers how to think about and do [information security from first principles](https://cacr.iu.edu/principles), and  helping to secure a DHS-funded static analysis project called [the SWAMP](https://www.mir-swamp.org).  I sneak in a little of my own research and various attempts to save the world from poor information security practices whenever I can.
 
 I also serve as Hacker-in-Chief of the [Internet Civil Engineering Institute](http://icei.org), a nonprofit dedicated to supporting and securing the common software infrastructure we all depend on.  Please [donate](https://icei.org/donate) if you can...a stable, free, and open internet may depend on it.
 
 I'm raising an amazing young mini-hacker, and in my free time, I write, code, research, practice martial arts, lift heavy things, teach backpacking for families trying to include special needs members in their adventures, and volunteer as a search-and-rescue and disaster relief worker.  Needless to say, I love the outdoors and may disappear into forests without provocation.
 
 
+<!--  [helping NSF-funded science and infrastructure projects improve their security](http://trustedci.org), -->
