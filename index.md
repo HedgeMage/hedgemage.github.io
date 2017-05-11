@@ -46,12 +46,15 @@ I'm not looking to change jobs right now.  However, I do have some ability to wo
   
 ## Still have questions? You could always reach out via:
 
-* [Email](mailto:hedgemage@binaryredneck.net)
+* [Email](mailto:sons@security.engineering)
 * [Diaspora](https://joindiaspora.com/people/4d067cff2c174344110107df)
-* [Twitter](https://twitter.com/@hedgemage)
+* [On the Fediverse](https://maly.io/hedgemage)
 * [LinkedIn](https://www.linkedin.com/in/susansons)
-* [Google Plus](http://gplus.to/hedgemage)
 
+<!-- Mostly deprecated:
+* [Twitter](https://twitter.com/@hedgemage)
+* [Google Plus](http://gplus.to/hedgemage)
+-->
 
 ## Quick bio...
 
