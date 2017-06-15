@@ -21,11 +21,12 @@ BLOG_AUTHOR = "Susan Sons"  # (translatable)
 BLOG_TITLE = "Susan Sons"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://hedgemage.github.io/"
+#SITE_URL = "https://hedgemage.github.io/"
+SITE_URL = "http://security.engineering/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://hedgemage.net/"
-BLOG_EMAIL = "hedgemage@binaryredneck.net"
+BLOG_EMAIL = "sons@security.engineering"
 BLOG_DESCRIPTION = "About me."  # (translatable)
 
 # Nikola is multilingual!
@@ -410,7 +411,7 @@ REDIRECTIONS = []
 # in a `nikola deploy` command as you like.
 DEPLOY_COMMANDS = {
     'default': [
-        "rsync -rav --delete output/ root@oldtea:/var/www",
+        "rm -rf output/* && nikola build && rsync -rav --delete output/ root@oldtea:/var/www/",
     ]
 }
 
