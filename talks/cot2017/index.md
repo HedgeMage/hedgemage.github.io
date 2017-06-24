@@ -12,7 +12,8 @@ One of two keynote speeches at [Cornerstones of Trust 2017](https://cornerstones
 
 This talk describes the state of emergency in open source infrastructure software and uses the rescue of the Network Time Protocol reference implementation as a case study in how failing infrastructure software can be saved.
 
-Slides will be available during and after the talk at [http://slides.com/hedgemage/cot2017](http://slides.com/hedgemage/cot2017)
+Slides will be available during and after the talk at [http://slides.com/hedgemage/cot2017](http://slides.com/hedgemage/cot2017).  
+*This deck is publicly forkable and licensed [CC-by-sa](https://creativecommons.org/licenses/by-sa/4.0/). Create a free Slides.com account and then view the presentation, click the fork icon to make your own copy.*
 
 ## Links from the talk
 
