@@ -19,7 +19,7 @@ The slides from this presentation are available in several formats[^1]:
 
 ## Followup Notes
 
-### These will be filled in after the talk.
+**More information available at our page on the [Information Security Practice Principles](https://cacr.iu.edu/principles).**
 
 
 ### Miscellany
