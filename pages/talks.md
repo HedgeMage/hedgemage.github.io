@@ -11,6 +11,7 @@
 *Thanks for your patience as I populate this.  I haven't always been good at keeping track of my various speaking engagements once they're over.*
 
 # 2017
+`2017-08-15` [Rebuilding a Plane in Flight: Refactors under Pressure](nsfsummit2017-refactor), Washington, D.C.
 `2017-06-20` [Afternoon Keynote](cot2017), [Cornerstones of Trust](https://cornerstonesoftrust.com/), Foster City, CA  
 `2017-05-10` [Finding Your Way In the Dark: Security from first principles](https://conferences.oreilly.com/oscon/oscon-tx/public/schedule/detail/57236), [O'Reilly OSCON](https://conferences.oreilly.com/oscon-tx), Austin, TX  
 `2017-05-09` [Rebuilding a Plane in Flight: Refactors under pressure](https://conferences.oreilly.com/oscon/oscon-tx/public/schedule/detail/57202), [O'Reilly OSCON](https://conferences.oreilly.com/oscon-tx), Austin, TX  
