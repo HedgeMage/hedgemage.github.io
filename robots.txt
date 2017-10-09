@@ -1,2 +1,4 @@
-Sitemap: https://hedgemage.github.io/sitemapindex.xml
+Sitemap: http://security.engineering/sitemapindex.xml
 
+User-Agent: *
+Host: security.engineering
