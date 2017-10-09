@@ -6,11 +6,11 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>http://security.engineering/rss.xml</loc>
-  <lastmod>2017-10-09T00:25:00Z</lastmod>
+  <loc>https://hedgemage.github.io/rss.xml</loc>
+  <lastmod>2017-10-09T05:03:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://security.engineering/sitemap.xml</loc>
-  <lastmod>2017-10-09T00:25:00Z</lastmod>
+  <loc>https://hedgemage.github.io/sitemap.xml</loc>
+  <lastmod>2017-10-09T05:03:00Z</lastmod>
  </sitemap>
 </sitemapindex>
