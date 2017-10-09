@@ -21,8 +21,8 @@ BLOG_AUTHOR = "Susan Sons"  # (translatable)
 BLOG_TITLE = "Susan Sons"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-#SITE_URL = "https://hedgemage.github.io/"
-SITE_URL = "http://security.engineering/"
+SITE_URL = "https://hedgemage.github.io/"
+#SITE_URL = "http://security.engineering/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://security.engineering/"
@@ -139,7 +139,9 @@ NAVIGATION_LINKS = {
 #        ("/categories/", "Tags"),
 #        ("/rss.xml", "RSS feed"),
         ("/talks", "Talks"),
-        ("/about", "About Me"),
+#        ("/about", "About Me"),
+        ("/teachers", "Teachers"),
+        ("/workwithme", "Work With Me"),
         ("/contact", "Contact"),
     ),
 }

@@ -17,3 +17,11 @@
 * [Ostatus / Fediverse](https://maly.io/hedgemage)
 * [Diaspora](https://joindiaspora.com/people/4d067cff2c174344110107df)
 * [Twitter](https://twitter.com/@hedgemage)
+
+
+### Press
+
+I'm happy to work with the press to help explain complex technology, information security, and privacy issues in a way that's accessible.  It doesn't matter if you're looking for background, or covering something related to my projects.
+
+The easiest way to reach me to discuss an interview or get background information is by [email](mailto:sons@security.engineering).  I have Signal, GPG, and other encrypted comms available if needed.
+
