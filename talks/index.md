@@ -8,6 +8,11 @@
 .. type: text
 -->
 
+# 2018
+
+`2018-08-21` [Software Engineering Guide for NSF Science](2018nsfsummit), [NSF Cybersecurity Summit](https://trustedci.org/2018-nsf-cybersecurity-summit), Washington, D.C.  
+`2018-05-11` [Finding Your way In the Dark: Information Security from First Principles](https://slides.com/hedgemage/ispp-craft2018), [CraftConf](https://craft-conf.com/2018/speaker/SusanSons), Budapest, Hungary  
+`2018-05-09` [Software Security Bootcamp: Architect's Edition](https://slides.com/hedgemage/software-sec-bootcamp), [CraftConf](https://craft-conf.com/2018/speaker/SusanSons), Budapest, Hungary  
 
 # 2017
 `2017-08-16` [Finding Your Way In the Dark: Information security from first principles](nsfsummit2017-principles), [NSF Cybersecurity Summit](https://trustedci.org/2017nsfsummit/), Washington, D.C.  

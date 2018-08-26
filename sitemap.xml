@@ -7,54 +7,58 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://hedgemage.github.io/</loc>
-  <lastmod>2017-10-09T05:02:00Z</lastmod>
+  <lastmod>2018-08-23T16:20:00Z</lastmod>
  </url>
  <url>
   <loc>https://hedgemage.github.io/archive.html</loc>
-  <lastmod>2017-10-09T05:03:00Z</lastmod>
+  <lastmod>2018-08-23T16:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://hedgemage.github.io/blog/</loc>
-  <lastmod>2017-10-09T05:02:00Z</lastmod>
+  <lastmod>2018-08-23T16:20:00Z</lastmod>
  </url>
  <url>
   <loc>https://hedgemage.github.io/boilerplate/</loc>
-  <lastmod>2017-10-09T05:02:00Z</lastmod>
+  <lastmod>2018-08-23T16:20:00Z</lastmod>
  </url>
  <url>
   <loc>https://hedgemage.github.io/categories/</loc>
-  <lastmod>2017-10-09T05:02:00Z</lastmod>
+  <lastmod>2018-08-23T16:20:00Z</lastmod>
  </url>
  <url>
   <loc>https://hedgemage.github.io/contact/</loc>
-  <lastmod>2017-10-09T05:02:00Z</lastmod>
+  <lastmod>2018-08-23T16:20:00Z</lastmod>
  </url>
  <url>
   <loc>https://hedgemage.github.io/talks/</loc>
-  <lastmod>2017-10-09T05:02:00Z</lastmod>
+  <lastmod>2018-08-23T16:20:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://hedgemage.github.io/talks/2018nsfsummit/</loc>
+  <lastmod>2018-08-23T16:20:00Z</lastmod>
  </url>
  <url>
   <loc>https://hedgemage.github.io/talks/cot2017/</loc>
-  <lastmod>2017-10-09T05:02:00Z</lastmod>
+  <lastmod>2018-08-23T16:20:00Z</lastmod>
  </url>
  <url>
   <loc>https://hedgemage.github.io/talks/journalists2017/</loc>
-  <lastmod>2017-10-09T05:02:00Z</lastmod>
+  <lastmod>2018-08-23T16:20:00Z</lastmod>
  </url>
  <url>
   <loc>https://hedgemage.github.io/talks/nsfsummit2017-principles/</loc>
-  <lastmod>2017-10-09T05:02:00Z</lastmod>
+  <lastmod>2018-08-23T16:20:00Z</lastmod>
  </url>
  <url>
   <loc>https://hedgemage.github.io/talks/nsfsummit2017-refactor/</loc>
-  <lastmod>2017-10-09T05:02:00Z</lastmod>
+  <lastmod>2018-08-23T16:20:00Z</lastmod>
  </url>
  <url>
   <loc>https://hedgemage.github.io/teachers/</loc>
-  <lastmod>2017-10-09T05:02:00Z</lastmod>
+  <lastmod>2018-08-23T16:20:00Z</lastmod>
  </url>
  <url>
   <loc>https://hedgemage.github.io/workwithme/</loc>
-  <lastmod>2017-10-09T05:02:00Z</lastmod>
+  <lastmod>2018-08-23T16:20:00Z</lastmod>
  </url>
 </urlset>
